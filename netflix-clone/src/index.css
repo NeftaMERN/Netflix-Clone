@@ -110,3 +110,10 @@ body::after {
   border: 1px solid #fff;
 
 }
+
+.display_input input ::placeholder{
+
+  font-family: 'Roboto';
+  font-size: 16px;
+
+}
