@@ -30,7 +30,18 @@ function Login() {
 
                               <div className="about_form">
 
-                                <h1>Sign In</h1>
+                                <div className="display_form_ab">
+
+                                    <h1>Sign In</h1>
+
+                                    <div className="display_input">
+
+                                        <input type="text" placeholder="Email or mobile number"></input>
+
+                                    </div>
+
+                                </div>
+
 
                               </div>
 
