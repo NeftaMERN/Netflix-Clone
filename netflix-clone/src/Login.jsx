@@ -10,11 +10,11 @@ function Login() {
 
                 <div className="main_logo_container">
 
-                   <div className="Logo_container">
+                    <div className="Logo_container">
 
-                    <img src={logopic} alt="Netflix Logo" />
+                        <img src={logopic} alt="Netflix Logo" />
 
-                </div> 
+                    </div> 
 
                 </div>
 
@@ -25,8 +25,10 @@ function Login() {
 
                         <div className="ab_form">
 
-                           <div className="about_form_container">
+                            <div className="about_form_container">
 
+
+                              
 
 
                             </div>
