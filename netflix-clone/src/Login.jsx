@@ -7,7 +7,6 @@ function Login() {
 
             <div className="container">
 
-                dkdkd
 
                 <div className="nav_bar_container">
 

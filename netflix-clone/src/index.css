@@ -9,3 +9,10 @@ body {
   background-image: url(./assets/netflix-img/netflix-1030x579.webp);
 
 }
+
+.container {
+
+  padding-left: 180px;
+  padding-top: 42px;
+
+}
