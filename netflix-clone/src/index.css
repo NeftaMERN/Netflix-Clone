@@ -13,6 +13,13 @@ body {
 .container {
 
   padding-left: 180px;
-  padding-top: 42px;
+  padding-top: 40px;
+
+}
+
+.Logo_container img {
+
+  width: 150px;
+  height: 95px;
 
 }
