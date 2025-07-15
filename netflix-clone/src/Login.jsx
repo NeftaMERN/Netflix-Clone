@@ -8,15 +8,20 @@ function Login() {
 
             <div className="container">
 
-                <div className="Logo_container">
+                <div className="main_logo_container">
+
+                   <div className="Logo_container">
 
                     <img src={logopic} alt="Netflix Logo" />
 
+                </div> 
+
                 </div>
+
 
                 <div className="form_container">
 
-                    
+                    <div className="display_form"></div>
 
                 </div>
 

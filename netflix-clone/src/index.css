@@ -42,9 +42,14 @@ body::after {
 
 .container {
 
-  position: relative;
-  padding-left: 180px;
-  padding-top: 40px;
+  height: 989px;
+
+}
+
+.main_logo_container {
+
+  padding-left: 184px;
+  padding-top: 42px;
 
 }
 
@@ -52,5 +57,24 @@ body::after {
 
   width: 150px;
   height: 95px;
+
+}
+
+.form_container {
+
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 400px;
+
+}
+
+.display_form {
+
+  background-color: black;
+  width: 420px;
+  height: 70vh;
+  opacity: 0.5;
 
 }
