@@ -7,14 +7,9 @@ function Login() {
 
             <div className="container">
 
+                <div className="Logo_container">
 
-                <div className="nav_bar_container">
-
-                    <div className="nav_bar">
-
-
-
-                    </div>
+                    
 
                 </div>
 
