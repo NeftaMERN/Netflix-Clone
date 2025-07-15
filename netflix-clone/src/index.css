@@ -1,8 +1,9 @@
 
-.All_container {
+body {
 
-  width: 100;
+  width: 100%;
   height: 100vh;
+  object-fit: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url(./assets/netflix-img/netflix-1030x579.webp);
