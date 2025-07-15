@@ -101,19 +101,34 @@ body::after {
 
 }
 
+.display_input {
+
+  position: relative;
+  padding-top: 20px;
+
+}
+
 .display_input input {
 
   width: 310px;
+  position: absolute;
   height: 50px;
   border-radius: 5px;
   background: transparent;
   border: 1px solid #fff;
-  line-height: 16px;
+  line-height: 80px;
   padding: 0 15px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
 
 }
 
+.enerlable {
+
+  position: absolute;
+  padding: 0 17px;
+  top: 37px;
+
+}
 input:focus,
 input:valid {
 
