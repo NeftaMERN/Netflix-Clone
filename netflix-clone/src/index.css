@@ -91,9 +91,8 @@ body::after {
 
   width: 320px;
   height: 60vh;
-  align-items: center;
   display: flex;
-  justify-content: center;
+  
 
 
 }
