@@ -66,15 +66,17 @@ body::after {
   align-items: center;
   justify-content: center;
   display: flex;
-  margin-left: 400px;
+  margin-left: 500px;
 
 }
 
 .display_form {
 
   background-color: black;
+  align-items: center;
   width: 420px;
   height: 70vh;
   opacity: 0.5;
+  border-radius: 5px;
 
 }
