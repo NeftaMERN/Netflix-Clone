@@ -114,14 +114,6 @@ body::after {
 
 }
 
-.display_input ::placeholder{
-
-  font-family: 'Roboto';
-  font-size: 16px;
-  padding-left: 0 15px;
-
-}
-
 input:focus,
 input:valid {
 
