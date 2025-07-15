@@ -1,3 +1,4 @@
+import logopic from "./assets/netflix-img/icons8-netflix-48.png"
 
 function Login() {
 
@@ -9,7 +10,7 @@ function Login() {
 
                 <div className="Logo_container">
 
-                    
+                    <img src={logopic} alt="Netflix Logo" />
 
                 </div>
 
