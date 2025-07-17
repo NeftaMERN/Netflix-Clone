@@ -44,7 +44,7 @@ function Login() {
 
                                         <div className="disply_input">
 
-                                            <input type="text" placeholder="Email or mobile number"></input>
+                                            <input type="password" placeholder="Password"></input>
 
                                         </div>
 
