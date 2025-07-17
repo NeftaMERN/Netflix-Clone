@@ -133,16 +133,10 @@ body::after {
   transition: 0.2s ease;
 
 }
-input:focus,
-input:valid {
+
+.display_input  input:focus, 
+.display_input  input:valid {
 
   color: #fff;
-
-}
-
-input:focus + .enerlable,
-input:valid + .enerlable {
-
-  
 
 }
