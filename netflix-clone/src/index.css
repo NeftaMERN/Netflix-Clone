@@ -83,7 +83,7 @@ body::after {
 
 .ab_form {
 
-  margin: 30px 0px 0px 53px;
+  margin: 30px 0px 0px 41px;
 
 }
 
@@ -135,6 +135,6 @@ body::after {
 
 .disply_input {
 
-  padding-top: 15px;
+  padding-bottom: 15px;
 
 }
