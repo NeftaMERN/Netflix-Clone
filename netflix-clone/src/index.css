@@ -160,3 +160,11 @@ body::after {
   background-color: rgb(202, 26, 26);
 
 }
+
+.forgot_btn {
+
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+
+}
