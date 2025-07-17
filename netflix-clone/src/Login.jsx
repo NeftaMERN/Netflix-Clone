@@ -62,6 +62,12 @@ function Login() {
 
                                     </div>
 
+                                    <div className="checkbox_btn">
+
+                                        <input type="checkbox" id="" /> <>Remember me</>
+
+                                    </div>
+
                                 </div>
 
 
