@@ -34,9 +34,9 @@ function Login() {
 
                                     <h1>Sign In</h1>
 
-                                    <div className="display_input">
+                                    <div className="input_container">
 
-                                        <div>
+                                        <div className="">
 
                                             <input type="text" placeholder="Email or mobile number"></input>
 

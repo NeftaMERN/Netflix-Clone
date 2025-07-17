@@ -101,13 +101,13 @@ body::after {
 
 }
 
-.display_input {
+.input_container {
 
   padding-top: 20px;
 
 }
 
-.display_input input {
+.input_container input {
 
   width: 310px;
   height: 50px;
@@ -120,14 +120,14 @@ body::after {
 
 }
 
-.display_input input::placeholder {
+.input_container input::placeholder {
 
   color: #fff;
 
 }
 
-.display_input input:focus,
-.display_input input:valid {
+.input_container input:focus,
+.input_container input:valid {
 
   color: #fff;
 
