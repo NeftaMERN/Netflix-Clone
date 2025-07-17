@@ -195,8 +195,15 @@ footer {
 
 }
 
-.ab_container p {
+.ab_container P {
 
   padding-bottom: 15px;
+  display: flex;
+
+}
+
+.ab_container a {
+
+  color: #fff;
 
 }

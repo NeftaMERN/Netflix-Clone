@@ -91,8 +91,8 @@ function Login() {
                     <div className="ab_container">
 
                         <p> <a href="">Questions? Contact us.</a></p>
-                        <p> <a href="">Questions? Contact us.</a></p>
-                        <p> <a href="">Questions? Contact us.</a></p>
+                        <p> <a href="">FAQ</a></p>
+                        <p> <a href="">Cookie Preferences</a></p>
                     
                     </div>
 
