@@ -7,7 +7,6 @@ function Login() {
 
         <>
         
-        <Home/>
 
         <div className="All_container">
 
@@ -39,23 +38,23 @@ function Login() {
 
                                     <h1>Sign In</h1>
 
-                                    <div className="input_container" id="login-Form">
+                                    <div className="input_container">
 
                                         <div className="disply_input">
 
-                                            <input type="text" placeholder="Email or mobile number" id="email"></input>
+                                            <input type="text" placeholder="Email or mobile number"></input>
 
                                         </div>
 
                                         <div className="disply_input">
 
-                                            <input type="password" placeholder="Password" id="password"></input>
+                                            <input type="password" placeholder="Password"></input>
 
                                         </div>
 
                                         <div className="input_btn">
 
-                                            <button>Sign In</button>
+                                        <button>Sign In</button>
 
                                         </div>
 
