@@ -42,7 +42,7 @@ body::after {
 
 .container {
 
-  height: 500px;
+  height: 650px;
 
 }
 
@@ -179,5 +179,12 @@ body::after {
 .checkbox_btn {
 
   padding-top: 20px;
+
+}
+
+.footer_container {
+
+  color: #000000;
+  height: 100vh;
 
 }

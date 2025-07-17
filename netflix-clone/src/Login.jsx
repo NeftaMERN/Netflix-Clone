@@ -84,6 +84,12 @@ function Login() {
 
             </div>
 
+            <div className="footer_container">
+
+                
+
+            </div>
+
         </div>
 
     );
