@@ -103,7 +103,6 @@ body::after {
 
 .display_input {
 
-  position: relative;
   padding-top: 20px;
 
 }
@@ -111,7 +110,6 @@ body::after {
 .display_input input {
 
   width: 310px;
-  position: absolute;
   height: 50px;
   border-radius: 5px;
   background: transparent;
@@ -119,24 +117,5 @@ body::after {
   line-height: 80px;
   padding: 0 15px;
   font-family: 'Roboto';
-  transition: 0.1s ease;
-  z-index: 1111;
-
-}
-
-.enerlable {
-
-  position: absolute;
-  padding: 0 17px;
-  top: 37px;
-  background: transparent;
-  transition: 0.2s ease;
-
-}
-
-.display_input  input:focus, 
-.display_input  input:valid {
-
-  color: #fff;
 
 }
