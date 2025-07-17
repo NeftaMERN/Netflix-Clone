@@ -36,19 +36,19 @@ function Login() {
 
                                     <div className="input_container">
 
-                                        <div className="">
+                                        <div className="disply_input">
 
                                             <input type="text" placeholder="Email or mobile number"></input>
 
                                         </div>
 
-                                        <div>
+                                        <div className="disply_input">
 
                                             <input type="text" placeholder="Email or mobile number"></input>
 
                                         </div>
 
-                                        <div>
+                                        <div className="disply_input">
 
                                             <input type="text" placeholder="Email or mobile number"></input>
 
