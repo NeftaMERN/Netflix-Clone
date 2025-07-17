@@ -36,7 +36,23 @@ function Login() {
 
                                     <div className="display_input">
 
-                                        <input type="text" placeholder="Email or mobile number"></input>
+                                        <div>
+
+                                            <input type="text" placeholder="Email or mobile number"></input>
+
+                                        </div>
+
+                                        <div>
+
+                                            <input type="text" placeholder="Email or mobile number"></input>
+
+                                        </div>
+
+                                        <div>
+
+                                            <input type="text" placeholder="Email or mobile number"></input>
+
+                                        </div>
 
                                     </div>
 
