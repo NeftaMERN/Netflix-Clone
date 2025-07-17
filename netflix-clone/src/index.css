@@ -139,3 +139,10 @@ input:valid {
   color: #fff;
 
 }
+
+input:focus + .enerlable,
+input:valid + .enerlable {
+
+  
+
+}
