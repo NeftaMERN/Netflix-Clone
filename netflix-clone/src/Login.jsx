@@ -56,6 +56,12 @@ function Login() {
 
                                     </div>
 
+                                    <div className="forgot_btn">
+
+                                        <a href="">Forgot password?</a>
+
+                                    </div>
+
                                 </div>
 
 
