@@ -119,3 +119,16 @@ body::after {
   font-family: 'Roboto';
 
 }
+
+.display_input input::placeholder {
+
+  color: #fff;
+
+}
+
+.display_input input:focus,
+.display_input input:valid {
+
+  color: #fff;
+
+}
