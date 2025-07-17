@@ -36,8 +36,7 @@ function Login() {
 
                                     <div className="display_input">
 
-                                        <input type="text" ></input>
-                                        <label className="enerlable">Email or mobile number</label>
+                                        <input type="text" placeholder="Email or mobile number"></input>
 
                                     </div>
 
