@@ -1,8 +1,13 @@
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
+import Home from "./Home"
 
 function Login() {
 
     return(
+
+        <>
+        
+        <Home/>
 
         <div className="All_container">
 
@@ -129,6 +134,8 @@ function Login() {
             </footer>
 
         </div>
+
+        </>
 
     );
 
