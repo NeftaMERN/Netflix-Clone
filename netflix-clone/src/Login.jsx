@@ -39,27 +39,28 @@ function Login() {
 
                                     <h1>Sign In</h1>
 
-                                    <div className="input_container">
+                                    <div className="input_container" id="login-Form">
 
                                         <div className="disply_input">
 
-                                            <input type="text" placeholder="Email or mobile number"></input>
+                                            <input type="text" placeholder="Email or mobile number" id="email"></input>
 
                                         </div>
 
                                         <div className="disply_input">
 
-                                            <input type="password" placeholder="Password"></input>
+                                            <input type="password" placeholder="Password" id="password"></input>
+
+                                        </div>
+
+                                        <div className="input_btn">
+
+                                            <button>Sign In</button>
 
                                         </div>
 
                                     </div>
 
-                                    <div className="input_btn">
-
-                                        <button>Sign In</button>
-
-                                    </div>
 
                                     <div className="forgot_btn">
 
