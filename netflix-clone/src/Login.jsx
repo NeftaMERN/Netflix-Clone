@@ -48,12 +48,6 @@ function Login() {
 
                                         </div>
 
-                                        <div className="disply_input">
-
-                                            <input type="text" placeholder="Email or mobile number"></input>
-
-                                        </div>
-
                                     </div>
 
                                 </div>
