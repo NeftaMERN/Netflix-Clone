@@ -91,8 +91,36 @@ function Login() {
                     <div className="ab_container">
 
                         <p> <a href="">Questions? Contact us.</a></p>
-                        <p> <a href="">FAQ</a></p>
-                        <p> <a href="">Cookie Preferences</a></p>
+
+                        <div className="ab_links">
+
+                            <div className="">
+
+                                <p> <a href="">FAQ</a></p>
+                                <p> <a href="">Cookie Preferences</a></p>
+
+                            </div>
+
+                            <div className="links">
+
+                                <p><a href="">Help Center</a></p>
+                                <p><a href="">Corporate Information</a></p>
+
+                            </div>
+
+                            <div className="links">
+
+                                <p><a href="">Terms of Use</a></p>
+
+                            </div>
+
+                            <div className="links">
+
+                                <p><a href="">Privacy</a></p>
+
+                            </div>
+
+                        </div>
                     
                     </div>
 
