@@ -97,7 +97,7 @@ function Home() {
                                     <img src={madamepic}/>
                                     <img src={beekeeperpic}/>
                                     <img src={chostbusterpic}/>
-                                    <img src={hunterpic}  />
+                                    <img src={hunterpic}/>
                                     <img src={polularpic}/>
                                     <img src={aliaenpic}/>
                                     <img src={venompic}/>
