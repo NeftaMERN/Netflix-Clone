@@ -39,7 +39,7 @@
 
 .display_container {
 
-    padding: 44px 0px 0px 95px;
+    padding: 20px 0px 0px 95px;
 
 }
 
@@ -51,14 +51,18 @@
 
 .logo img {
 
-    padding-right: 20px;
+    padding-right: 30px;
     font-size: 16px;
+    padding-top: 0;
+    width: 100px;
     cursor: pointer;
 
 }
 
 .logo a {
 
-    padding: 20px;
+    padding-top: 0;
+    padding: 40px;
+    font-size: 16px;
 
 }
