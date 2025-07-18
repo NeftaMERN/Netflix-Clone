@@ -18,10 +18,12 @@ function Home() {
                             <img src={logopic} alt="Netflix-logo" />
 
                                <a href="">Home</a>
-                               <a href="">Home</a>
-                               <a href="">Home</a>
-                               <a href="">Home</a>
-                               <a href="">Home</a>
+                               <a href="">Tv Shows</a>
+                               <a href="">Movies</a>
+                               <a href="">New&Popular</a>
+                               <a href="">My List</a>
+                               <a href="">Browser by Language </a>
+
 
                         </div>
 
