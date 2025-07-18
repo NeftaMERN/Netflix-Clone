@@ -1,0 +1,15 @@
+
+.home-container {
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+
+}
+
+.home-container h1 {
+
+    color: rgb(6, 241, 6);
+
+}
