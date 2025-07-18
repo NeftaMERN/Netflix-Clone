@@ -6,7 +6,9 @@ function Home() {
 
         <div className="home_container">
 
+            <div className="display_container">
 
+            </div>
 
         </div>
 
