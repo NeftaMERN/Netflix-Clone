@@ -42,3 +42,21 @@
     padding: 44px 0px 0px 95px;
 
 }
+
+.logo {
+
+    display: flex;
+
+}
+
+.logo img {
+
+    padding-right: 20px;
+
+}
+
+.logo a {
+
+    padding: 20px;
+
+}
