@@ -31,6 +31,12 @@ function Home() {
 
                 </div>
 
+                <div className="about_movie_container">
+
+                    
+
+                </div>
+
             </div>
 
         </div>
