@@ -43,7 +43,7 @@ function Home() {
 
                     <div className="movie_about">
 
-                        
+                        <h1>Big Hero 6</h1>
 
                     </div>
 
