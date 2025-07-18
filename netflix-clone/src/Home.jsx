@@ -119,13 +119,13 @@ function Home() {
                                 <div className="popular_movie_list">
 
                                     <img src={hunterpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
+                                    <img src={venompic}  />
+                                    <img src={madamepic}  />
+                                    <img src={chostbusterpic}  />
+                                    <img src={beekeeperpic}  />
                                     <img src={hunterpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
+                                    <img src={madamepic}  />
+                                    <img src={aliaenpic}  />
                                     <img src={polularpic}  />
 
                                 </div>
