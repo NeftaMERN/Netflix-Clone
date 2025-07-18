@@ -4,9 +4,9 @@ function Home() {
 
     return(
 
-        <div className="home-container">
+        <div className="home_container">
 
-            <h1> Login is sucsusfull </h1>
+
 
         </div>
 
