@@ -71,6 +71,12 @@ function Home() {
 
                         </div>
 
+                        <div className="movie_lists">
+
+                            
+
+                        </div>
+
                     </div>
 
                 </div>
