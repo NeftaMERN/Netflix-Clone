@@ -52,6 +52,18 @@ function Home() {
 
                         </div>
 
+                        <div className="movie_btn">
+
+                            <button>
+
+                                <img src="https://img.icons8.com/?size=100&id=85165&format=png&color=000000" alt="" />
+
+                                <label htmlFor="">Play</label>
+        
+                            </button>
+
+                        </div>
+
                     </div>
 
                 </div>
