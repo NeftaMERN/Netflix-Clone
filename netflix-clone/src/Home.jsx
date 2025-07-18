@@ -33,7 +33,13 @@ function Home() {
 
                 <div className="about_movie_container">
 
-                    
+                    <div className="ab_titel_movie">
+
+                        <img src="https://img.icons8.com/?size=100&id=GJ1x26ZmfZ96&format=png&color=000000" alt="" />
+
+                        <p>Animation</p>
+
+                    </div>
 
                 </div>
 

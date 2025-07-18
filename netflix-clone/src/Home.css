@@ -55,6 +55,7 @@
     font-size: 16px;
     padding-top: 0;
     width: 100px;
+    font-family: 'Roboto';
     cursor: pointer;
 
 }
@@ -66,6 +67,7 @@
     padding-right: 30px;
     font-size: 16px;
     color: #fff;
+    font-family: 'Roboto';
     text-decoration: none;
 
 }
@@ -75,5 +77,28 @@
     margin-top: 100px;
     width: 600px;
     height: 310px;
+
+}
+
+.ab_titel_movie {
+
+    font-family: 'Roboto Serif';
+    font-size: 16px;
+    display: flex;
+    color: #fff;
+
+}
+
+.ab_titel_movie p {
+
+    padding-left: 10px;
+
+}
+
+.ab_titel_movie img {
+
+    width: 39px;
+    padding: 5px;
+    height: 39px;
 
 }
