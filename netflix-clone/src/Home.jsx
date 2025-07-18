@@ -92,15 +92,15 @@ function Home() {
 
                                 <div className="popular_movie_list">
 
+                                    <img src={venompic}  />
                                     <img src={polularpic}  />
+                                    <img src={madamepic}  />
+                                    <img src={beekeeperpic}  />
+                                    <img src={chostbusterpic}  />
+                                    <img src={hunterpic}  />
                                     <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
+                                    <img src={aliaenpic}  />
+                                    <img src={venompic}  />
 
                                 </div>
 
@@ -108,14 +108,10 @@ function Home() {
 
                                 <div className="popular_movie_list">
 
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
+                                    <img src={pandapic}  />
+                                    <img src={moanapic}  />
+                                    <img src={bigpic}  />
+                                    <img src={anmipic}  />
                                     <img src={polularpic}  />
 
                                 </div>
