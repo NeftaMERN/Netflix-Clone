@@ -1,11 +1,10 @@
-
-import App from "./App"
+import "./Home.css"
 
 function Home() {
 
     return(
 
-        <div>
+        <div className=".home-container">
 
             <h1> Login is sucsusfull </h1>
 

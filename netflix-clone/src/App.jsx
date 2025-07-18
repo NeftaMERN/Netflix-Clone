@@ -1,11 +1,18 @@
 
 import Login from "./Login";
+import Home from "./Home";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
 
   return(
 
-    <Login/>
+    <Routes>
+
+      <Route path="/" element={<Login />} />
+      <Route path="/home" element={<Home />} />
+
+    </Routes>
 
   );
 

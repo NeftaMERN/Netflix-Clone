@@ -1,15 +1,20 @@
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import "./index.css"
 
 function Login() {
 
+    const navigate = useNavigate();
+
     const [login, setLogin] = useState("");
 
-    function handleLogin() {
+function handleLogin() {
 
-        setLogin(window.location.href="/Home")
+    navigate("/home");
+    
+}
 
-    }
 
     return(
 
