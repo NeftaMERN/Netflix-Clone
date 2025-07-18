@@ -1,8 +1,15 @@
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
-import Home from "./Home"
 import { useState } from "react";
 
 function Login() {
+
+    const [login, setLogin] = useState("");
+
+    function handleLogin() {
+
+        setLogin(window.location.href="/Home")
+
+    }
 
     return(
 
@@ -55,7 +62,7 @@ function Login() {
 
                                         <div className="input_btn">
 
-                                        <button>Sign In</button>
+                                        <button onClick={handleLogin}>Sign In</button>
 
                                         </div>
 
