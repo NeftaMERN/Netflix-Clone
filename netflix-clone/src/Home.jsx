@@ -1,6 +1,7 @@
 import "./Home.css"
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
 import polularpic from "./assets/netflix-img/bad boys.jpg"
+import hunterpic from "./assets/netflix-img/the hunter.jpg"
 
 function Home() {
 
@@ -92,7 +93,7 @@ function Home() {
 
                                 </div>
 
-                                <h1>Blockbuster Movies</h1>
+                                <h1>Animation For You</h1>
 
                                 <div className="popular_movie_list">
 
@@ -112,12 +113,12 @@ function Home() {
 
                                 <div className="popular_movie_list">
 
+                                    <img src={hunterpic}  />
                                     <img src={polularpic}  />
                                     <img src={polularpic}  />
                                     <img src={polularpic}  />
                                     <img src={polularpic}  />
-                                    <img src={polularpic}  />
-                                    <img src={polularpic}  />
+                                    <img src={hunterpic}  />
                                     <img src={polularpic}  />
                                     <img src={polularpic}  />
                                     <img src={polularpic}  />
