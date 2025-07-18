@@ -64,6 +64,12 @@ function Home() {
 
                         </div>
 
+                        <div className="more_btn">
+
+                            <button>djdj</button>
+
+                        </div>
+
                     </div>
 
                 </div>
