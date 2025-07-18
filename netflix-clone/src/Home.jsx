@@ -2,6 +2,11 @@ import "./Home.css"
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
 import polularpic from "./assets/netflix-img/bad boys.jpg"
 import hunterpic from "./assets/netflix-img/the hunter.jpg"
+import venompic from "./assets/netflix-img/venom.jpg"
+import madamepic from "./assets/netflix-img/madame.jpg"
+import chostbusterpic from "./assets/netflix-img/chostbuster.jpg"
+import beekeeperpic from "./assets/netflix-img/beekeeper.jpg"
+import aliaenpic from "./assets/netflix-img/aliaen.jpg"
 
 function Home() {
 
