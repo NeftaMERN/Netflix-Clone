@@ -66,7 +66,7 @@ function Home() {
 
                         <div className="more_btn">
 
-                            <button>djdj</button>
+                            <button>More Info</button>
 
                         </div>
 
