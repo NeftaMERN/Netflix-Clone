@@ -45,7 +45,12 @@ function Home() {
 
                         <h1>Big Hero 6</h1>
 
-                        
+                        <div className="movie_paragraph">
+
+                            <p>Big Hero 6 shows how a young inventor turns his pain into power,<br />
+                                using technology and friendship to become a real hero. </p>
+
+                        </div>
 
                     </div>
 
