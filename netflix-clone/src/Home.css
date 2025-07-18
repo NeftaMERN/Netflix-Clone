@@ -211,5 +211,13 @@
     height: 123px;
     background-size: cover;
     padding: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+
+}
+
+.popular_movie_list img:hover {
+
+    transform: translateY(-10px);
 
 }
