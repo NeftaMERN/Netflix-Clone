@@ -41,6 +41,12 @@ function Home() {
 
                     </div>
 
+                    <div className="movie_about">
+
+                        
+
+                    </div>
+
                 </div>
 
             </div>
