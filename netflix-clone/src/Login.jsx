@@ -7,12 +7,23 @@ function Login() {
 
     const navigate = useNavigate();
 
-    const [login, setLogin] = useState("");
-
 function handleLogin() {
 
-    navigate("/home");
+    const Username = document.getElementById("email").value;
+    const Password = document.getElementById("password").value;
+
+    const web_Email = Username.endsWith("@gmail.com");
     
+    if(web_Email  && Password !== "" ) {
+
+        navigate("./home")
+
+    }else {
+
+        alert("incorect")
+
+    }
+
 }
 
 
@@ -55,13 +66,13 @@ function handleLogin() {
 
                                         <div className="disply_input">
 
-                                            <input type="text" placeholder="Email or mobile number"></input>
+                                            <input type="text" placeholder="Email or mobile number" id="email"></input>
 
                                         </div>
 
                                         <div className="disply_input">
 
-                                            <input type="password" placeholder="Password"></input>
+                                            <input type="password" placeholder="Password" id="password"></input>
 
                                         </div>
 
