@@ -45,6 +45,8 @@ function Home() {
 
                         <h1>Big Hero 6</h1>
 
+                        
+
                     </div>
 
                 </div>
