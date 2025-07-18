@@ -7,6 +7,12 @@ import madamepic from "./assets/netflix-img/madame.jpg"
 import chostbusterpic from "./assets/netflix-img/chostbuster.jpg"
 import beekeeperpic from "./assets/netflix-img/beekeeper.jpg"
 import aliaenpic from "./assets/netflix-img/aliaen.jpg"
+import pandapic from "./assets/netflix-img/panda.webp"
+import moanapic from "./assets/netflix-img/moana.jpg"
+import bosbabypic from "./assets/netflix-img/bos-baby.webp"
+import bigpic from "./assets/netflix-img/Big-Hero-6-Movie.jpg"
+import anmipic from "./assets/netflix-img/animation-movies-1334-x-724-wallpaper-0u1sr2u6aq53pfq5.webp"
+import modpic from "./assets/netflix-img/mod.webp"
 
 function Home() {
 
