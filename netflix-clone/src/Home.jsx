@@ -73,7 +73,11 @@ function Home() {
 
                         <div className="movie_lists">
 
-                            
+                            <div className="Popular_Movie">
+
+                                <h1>Popular Movie On Netflix</h1>
+
+                            </div>
 
                         </div>
 
