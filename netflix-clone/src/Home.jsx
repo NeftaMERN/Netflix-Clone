@@ -108,6 +108,22 @@ function Home() {
 
                                 </div>
 
+                                <h1>Only On Netflix</h1>
+
+                                <div className="popular_movie_list">
+
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+
+                                </div>
+
                             </div>
 
                         </div>
