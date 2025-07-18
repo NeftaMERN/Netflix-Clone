@@ -56,9 +56,10 @@ function Home() {
 
                             <button>
 
-                                <img src="https://img.icons8.com/?size=100&id=85165&format=png&color=000000" alt="" />
+                             <a href="https://v.moviebox.ng/wa5Atb8V3y"><img src="https://img.icons8.com/?size=100&id=85165&format=png&color=000000" /></a>
+                                
 
-                                <label htmlFor="">Play</label>
+                                <label>Play</label>
         
                             </button>
 
