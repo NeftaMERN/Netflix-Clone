@@ -1,5 +1,6 @@
 import "./Home.css"
 import logopic from "./assets/netflix-img/icons8-netflix-48.png"
+import polularpic from "./assets/netflix-img/bad boys.jpg"
 
 function Home() {
 
@@ -76,6 +77,20 @@ function Home() {
                             <div className="Popular_Movie">
 
                                 <h1>Popular Movie On Netflix</h1>
+
+                                <div className="popular_movie_list">
+
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+                                    <img src={polularpic}  />
+
+                                </div>
 
                             </div>
 

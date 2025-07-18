@@ -191,3 +191,25 @@
     padding-top: 100px;
 
 }
+
+.movie_lists h1 {
+
+    font-size: 32px;
+    font-family: 'Roboto Serif';
+
+}
+
+.popular_movie_list {
+
+    display: flex;
+
+}
+
+.popular_movie_list img {
+
+    width: 223px;
+    height: 123px;
+    background-size: cover;
+    padding: 20px;
+
+}
